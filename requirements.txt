@@ -1,0 +1,10 @@
+fastapi==0.95.0
+uvicorn==0.23.0
+cohere==4.1.1
+pydantic==1.10.7
+sqlalchemy==2.0.17
+psycopg2-binary==2.9.3
+streamlit==1.20.0
+python-dotenv==0.21.0
+httpx==0.24.0
+requests==2.28.2
